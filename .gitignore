@@ -16,11 +16,7 @@ __pycache__/
 *.pyc
 
 # 大型项目目录（不同步）
-224mmdet/
-mmdet_dino/
-mmdetection/
 mmpretrain/
-mmpretrain0624/
 yyc_222data/
 
 # 临时文件
