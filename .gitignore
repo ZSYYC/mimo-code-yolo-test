@@ -1,0 +1,39 @@
+# 模型权重文件
+*.pt
+*.pth
+*.onnx
+*.engine
+*.tflite
+
+# 训练结果
+runs/
+datasets/
+
+# 虚拟环境
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# 大型项目目录（不同步）
+224mmdet/
+mmdet_dino/
+mmdetection/
+mmpretrain/
+mmpretrain0624/
+yyc_222data/
+
+# 临时文件
+*.tmp
+*.log
+.DS_Store
+
+# 推理输出图片
+bus.jpg
+*.jpg
+!*.md
+
+# 其他
+nohup.out
+*.zip
+*.npy
