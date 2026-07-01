@@ -1,0 +1,4 @@
+names: [insect]
+nc: 1
+train: "/home/yaoteam/yaoteam/yyc/random_paste_work/分离出来的数据集0616/yolo_formet_dataset/train"
+val: '/home/yaoteam/yaoteam/yyc/random_paste_work/分离出来的数据集0616/yolo_formet_dataset/val'
