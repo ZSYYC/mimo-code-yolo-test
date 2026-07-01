@@ -33,3 +33,9 @@ bus.jpg
 nohup.out
 *.zip
 *.npy
+*.backup*
+
+# 含密钥的文件（不同步）
+mmdet_dino/cebaodeng_server.py
+mmdet_dino/cebaodeng_server.py.backup250506
+mmdet_dino/cebaodeng_zhaobiao_server.py
