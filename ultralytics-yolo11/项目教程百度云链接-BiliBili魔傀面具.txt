@@ -1,0 +1,40 @@
+------------------------------ 本项目由BiliBili-魔傀面具<https://space.bilibili.com/286900343>开发 ------------------------------
+
+里面的使用教程.zip(第一个必须要看的视频):
+链接: https://pan.baidu.com/s/1k6Mj2LP_tXa-oqLkB_pPGQ?pwd=6fgd 
+提取码: 6fgd # BiliBili 魔傀面具
+1. 20240114 增加一个c2f_v2转回去c2f的教程视频(transform_weight.py)(需要对剪枝后的模型做蒸馏学习的必看!)
+2. 20240316 增加一个稀疏训练tensorboard结果可视化
+3. 20240415 增加segment,pose,obb剪枝说明
+
+--------------------------------------------------------------
+
+以下是改进示例跳层视频教程：
+链接: https://pan.baidu.com/s/1uUZSOiFrh9mdQzZqgKa2hA?pwd=rdzb 
+提取码: rdzb # BiliBili 魔傀面具
+1. yolov8-Faster-GFPN-P2-EfficientHead教程(更正:里面的不是GFPN,是YOLOV6的EfficientRepBiPAN)
+2. yolov8-BIFPN-EfficientRepHead教程
+3. EfficientHead中的PConv跳层教程
+4. yolov8-GhostHGNetV2-SlimNeck-ASF教程
+5. yolov8-convnextv2-goldyolo-asf.yaml教程
+6. yolov8-dyhead.yaml教程
+7. yolov8-repvit-RepNCSPELAN.yaml教程
+8. yolov8-starnet-C2f-Star-LSCD.yaml教程
+9. yolov10n.yaml教程
+10. yolov11n.yaml教程
+11. yolo11-C3k2-Faster-CGLU-RSCD教程
+12. yolo11-FDPN-TADDH教程
+13. yolo11-C3k2-MutilScaleEdgeInformationEnhance教程
+14. yolo11-SOEP教程
+15. yolo12教程
+
+--------------------------------------------------------------
+
+yolov5v7的示例讲解(主要是增加剪枝跳层的理解):
+链接：https://pan.baidu.com/s/11vI2YIgd8JLCmaIwanzVew?pwd=img8 
+提取码：img8  # BiliBili 魔傀面具
+1. yolov5n+C3-Faster+RepConv
+2. yolov5n+RepViT+C2f
+3. 原yolov7-tiny, yolov7-tiny+mobilenetv3+LSKBlock+TSCODE+RepConv, yolov7-tiny+Yolov7_Tiny_E_ELAN_DCN+AFPN
+4. yolov7-tiny+FasterNet+DBB
+5. yolov7-tiny+ReXNet+VoVGSCSP+DyHead+DecoupledHead
